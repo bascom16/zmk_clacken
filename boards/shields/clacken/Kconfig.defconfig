@@ -1,7 +1,7 @@
 if SHIELD_CLACKEN_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "Clacken"
+    default "Brian's Clacken"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
