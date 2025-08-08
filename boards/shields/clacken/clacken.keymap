@@ -55,7 +55,7 @@
             bindings = <
                     &kp F1      &kp F2      &kp F3      &kp F4      &kp F5      &kp F6      &kp F7      &kp F8      &kp F9      &kp F10
                     &kp LSHIFT  &kp TAB     &kp LCTRL   &kp LALT    &kp LCMD    &kp LEFT    &kp UP      &kp DOWN    &kp RIGHT   &kp F11
-                    &kp PSCRN   &kp CAPS    &none       &none       &none       &kp PG_UP   &kp PG_DOWN &kp HOME    &kp END     &kp F12
+                    &kp PSCRN   &kp CAPS    &none       &none       &none       &kp PG_UP   &kp PG_DN   &kp HOME    &kp END     &kp F12
                                             &trans      &trans      &trans      &trans      &kp DEL     &trans
             >;
         };
