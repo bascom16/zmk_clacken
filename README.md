@@ -20,8 +20,8 @@ Function layer
 | L     |       |       |       |       |       |       |       |       | R     |
 | :-:   | :-:   | :-:   | :-:   | :-:   | :-:   | :-:   | :-:   | :-:   | :-:   |
 | F1    | F2    | F3    | F4    | F5    | F6    | F7    | F8    | F9    | F10   |
-| SH    | TAB   | CTRL  | ALT   | CMD   | PGUP  | HOME  | UP    | END   | F11   |
-| PSCRN | CAPS  |       |       |       | PGDN  | LEFT  | DOWN  | RIGHT | F12   |
+| SH    | TAB   | CTRL  | ALT   | CMD   | LEFT  | DOWN  | UP    | RIGHT | F11   |
+| PSCRN | CAPS  |       |       |       | PGUP  | PGDN  | HOME  | END   | F12   |
 |       |       | #     | **FN**| CMD   | RET   | DEL   | SP    |       |       |
 
 Number layer
